@@ -2,6 +2,8 @@ ___
 # RV32IM Pipeline Implementation
 ___
 
-## Please refer the instructions in below URL:
+## Team
 
-https://projects.ce.pdn.ac.lk/docs/how-to-add-a-project
+E/17/388, Lakpriya Weragoda, e17388@eng.pdn.ac.lk
+E/17/035, Madusha Chamika, e17035@eng.pdn.ac.lk
+
