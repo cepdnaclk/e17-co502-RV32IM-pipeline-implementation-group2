@@ -1,5 +1,5 @@
 ___
-# DELETE THIS INSTRUCTIONS AND ADD A SHORT INTRODUCTION ABOUT YOUR PROJECT
+# RV32IM Pipeline Implementation
 ___
 
 ## Please refer the instructions in below URL:
