@@ -7,7 +7,7 @@
 ==============================================================
 */
 
-`include "definitions.v"
+`include "../Support_Files/definitions.v"
 
 module control_unit(INSTRUCTION, IMM_SEL, OP1_SEL, OP2_SEL, ALU_OPCODE, MEM_WRITE, MEM_READ, REG_WRITE_ENABLE, WB_SEL, BRANCH_JUMP/*, RESET*/); 
 
